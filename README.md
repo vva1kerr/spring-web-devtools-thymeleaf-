@@ -2,6 +2,10 @@
 
 This is a Spring Boot web application that demonstrates the basic setup and functionality of a Spring Boot project.
 
+![](/assets/Screenshot-2025-06-14-174400.png)
+
+![](/assets/Screenshot-2025-06-14-174414.png)
+
 ## Project Structure
 
 ```
